@@ -1,0 +1,24 @@
+
+.common-text-w {
+    font-size: 1rem;
+    font-weight: lighter;
+    color: white;
+}
+
+.common-text-b {
+    font-size: 1rem;
+    font-weight: lighter;
+    color: black;
+}
+
+.bold-text-w {
+    font-size: 1.1rem;
+    font-weight: bold;
+    color:white;
+}
+
+.bold-text-b {
+    font-size: 1.1rem;
+    font-weight: bold;
+    color: black;
+}
